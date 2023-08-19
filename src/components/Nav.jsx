@@ -72,16 +72,16 @@ const Nav = () => {
                   </summary>
                   <ul className="p-2 bg-base-100 font-semibold z-50">
                     <li>
-                      <Link to="/">Home</Link>
+                      <Link to="/portfolio">Home</Link>
                     </li>
                     <li>
-                      <Link to="/About">About</Link>
+                      <Link to="/portfolio/About">About</Link>
                     </li>
                     <li>
-                      <Link to="/Project">Project</Link>
+                      <Link to="/portfolio/Project">Project</Link>
                     </li>
                     <li>
-                      <Link to="/Contact">Contact</Link>
+                      <Link to="/portfolio/Contact">Contact</Link>
                     </li>
                   </ul>
                 </details>
