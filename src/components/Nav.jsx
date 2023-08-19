@@ -105,28 +105,28 @@ const Nav = () => {
                 <Link
                   id='menu1'
                   className="hover:shadow-inner p-2 hover:rounded-3xl hover:bg-slate-200 ease-in-out rounded-3xl duration-500 hidden animate__animated"
-                  to="/"
+                  to="/portfolio"
                 >
                   Home
                 </Link>
                 <Link
                   id='menu2'
                   className="hover:shadow-inner p-2 hover:rounded-3xl hover:bg-slate-200 ease-in-out rounded-3xl duration-500 hidden animate__animated"
-                  to="/About"
+                  to="/portfolio/About"
                 >
                   About
                 </Link>
                 <Link
                   id='menu3'
                   className="hover:shadow-inner p-2 hover:rounded-3xl hover:bg-slate-200 ease-in-out rounded-3xl duration-500 hidden animate__animated"
-                  to="/Project"
+                  to="/portfolio/Project"
                 >
                   Project
                 </Link>
                 <Link
                   id='menu4'
                   className="hover:shadow-inner p-2 hover:rounded-3xl hover:bg-slate-200 ease-in-out rounded-3xl duration-500 hidden animate__animated"
-                  to="/Contact"
+                  to="/portfolio/Contact"
                 >
                   Contact
                 </Link>
